@@ -1,4 +1,4 @@
-# apple-imac-clone
+# Apple iMac Clone
 A simple clone of the Apple Website's navigation bar and the hero section using Tailwind CSS.
 
 ## Features
