@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+	.icon {
+		@apply cursor-pointer h-6 w-6 text-gray-200 hover:text-white transition-all;
+	}
+
+	.link {
+		@apply text-gray-200 text-sm font-extralight;
+	}
+}
